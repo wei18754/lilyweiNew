@@ -1,0 +1,22 @@
+2021-Sep-30 Thu 14:22:59.281 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - Ignition.getOrStart
+2021-Sep-30 Thu 14:22:59.285 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Default properties loaded. cluster.properties 
+2021-Sep-30 Thu 14:22:59.286 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Could not load external properties: C:\Program Files\Automation Anywhere\Automation360\config\cluster.properties (The system cannot find the file specified)
+2021-Sep-30 Thu 14:22:59.646 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - client failure detection timeout: 240000
+2021-Sep-30 Thu 14:22:59.702 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - Using static IP discovery: [127.0.0.1]
+2021-Sep-30 Thu 14:23:02.089 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Default properties loaded. cluster.properties 
+2021-Sep-30 Thu 14:23:02.090 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Could not load external properties: C:\Program Files\Automation Anywhere\Automation360\config\cluster.properties (The system cannot find the file specified)
+2021-Sep-30 Thu 14:23:10.051 INFO  - com.automationanywhere.ignite.db.DataSourceProvider - {} - Configuring data source
+2021-Sep-30 Thu 14:23:10.053 INFO  - com.automationanywhere.ignite.db.DataSourceProvider - {} - Data source loaded from: C:\Program Files\Automation Anywhere\Automation360\config
+{boot.db.keyvault.credential=, boot.db.password.encrypted=false, boot.db.contexts=legacy,11.0,11.2,11.3,11.3.1,11.3.2,hopper,community, boot.db.activemq.persistence.adapter=org.apache.activemq.store.jdbc.adapter.TransactJDBCAdapter, boot.db.driver=com.microsoft.sqlserver.jdbc.SQLServerDriver, boot.db.type=mssql, boot.db.url=jdbc:sqlserver://AAUS341JSTCR:1433;databaseName=Automation360-Database-new;integratedSecurity=true;encrypt=false, boot.db.quartz.jobStore.driverDelegateClass=org.quartz.impl.jdbcjobstore.MSSQLDelegate, boot.db.keyvault.locker=, boot.db.pool.maxTotal=100, boot.db.ssl.enabled=false, boot.db.default.schema=dbo, boot.db.password=, boot.db.dialect=org.hibernate.dialect.SQLServer2012Dialect, boot.db.username=, boot.db.pool.initialSize=10, boot.db.in.clause.maxElements=2100, boot.db.name=Automation360-Database-new, boot.db.pool.maxIdle=8}
+2021-Sep-30 Thu 14:23:15.223 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB conn
+2021-Sep-30 Thu 14:23:15.223 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB ps
+2021-Sep-30 Thu 14:23:15.230 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB exec
+2021-Sep-30 Thu 14:23:15.257 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB conn
+2021-Sep-30 Thu 14:23:15.257 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB ps
+2021-Sep-30 Thu 14:23:15.257 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - getKeyFromDB exec
+2021-Sep-30 Thu 14:23:15.263 INFO  - com.automationanywhere.ignite.authentication.IgniteAuthenticationKeyStore - {} - Jwt token signing keys have already been generated, returning.
+2021-Sep-30 Thu 14:23:29.972 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - Ignition.getOrStart
+2021-Sep-30 Thu 14:23:29.972 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Default properties loaded. cluster.properties 
+2021-Sep-30 Thu 14:23:29.982 INFO  - com.automationanywhere.ignite.ExternalConfig - {} - Could not load external properties: C:\Program Files\Automation Anywhere\Automation360\config\cluster.properties (The system cannot find the file specified)
+2021-Sep-30 Thu 14:23:29.983 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - client failure detection timeout: 240000
+2021-Sep-30 Thu 14:23:29.983 INFO  - com.automationanywhere.ignite.IgniteFactory - {} - Using static IP discovery: [127.0.0.1]

@@ -1,0 +1,8 @@
+2021-Oct-13 Wed 08:58:46.502 [jvm-pause-detector-worker] xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx - WARN  - org.apache.ignite.internal.IgniteKernal%AAUS341JSTCR - Possible too long JVM pause: 41974407 milliseconds.
+2021-Oct-13 Wed 08:58:47.061 [tcp-client-disco-msg-worker-#4%AAUS341JSTCR%] xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx - ERROR - org.apache.ignite.internal.util.typedef.G - Blocked system-critical thread has been detected. This can lead to cluster-wide undefined behaviour [workerName=grid-nio-worker-tcp-comm-3, threadName=grid-nio-worker-tcp-comm-3-#17%AAUS341JSTCR%, blockedFor=41975s]
+2021-Oct-13 Wed 08:58:47.905 [tcp-client-disco-msg-worker-#4%AAUS341JSTCR%] xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx - WARN  - org.apache.ignite.internal.util.typedef.G - Thread [name="grid-nio-worker-tcp-comm-3-#17%AAUS341JSTCR%", id=38, state=RUNNABLE, blockCnt=1, waitCnt=0]
+
+2021-Oct-13 Wed 08:58:48.349 [jvm-pause-detector-worker] xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx - WARN  - org.apache.ignite.internal.IgniteKernal%AAUS341JSTCR - Possible too long JVM pause: 1797 milliseconds.
+2021-Oct-13 Wed 08:58:48.585 [tcp-client-disco-msg-worker-#4%AAUS341JSTCR%] xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx - WARN  - org.apache.ignite.internal.processors.cache.CacheDiagnosticManager - Page locks dump:
+
+
