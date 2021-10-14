@@ -1,0 +1,3 @@
+2021-Oct-11 Mon 03:29:52.002 INFO  - org.springframework.security.config.SecurityNamespaceHandler - Couldn't determine package version information.
+2021-Oct-11 Mon 03:29:52.031 INFO  - org.springframework.security.config.http.FilterInvocationSecurityMetadataSourceParser - Creating access control expression attribute 'isAuthenticated()' for /**
+2021-Oct-11 Mon 03:29:52.043 INFO  - org.springframework.security.config.method.GlobalMethodSecurityBeanDefinitionParser - Using bean 'methodSecurityExpressionHandler' as method ExpressionHandler implementation

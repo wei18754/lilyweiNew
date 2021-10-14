@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Automation Anywhere. All rights reserved.
+  ~ <p>
+  ~  This software is the proprietary information of Automation Anywhere. You
+  ~  shall use it only in accordance with the terms of the license agreement you
+  ~  entered into with Automation Anywhere.
+  ~ </p>
+  -->
+
+<Configuration status="INFO" monitorInterval="30">
+    <!--<ThresholdFilter level="INFO"/>-->
+    <Properties>
+        <Property name="logPath">C:/ProgramData/AutomationAnywhere/Logs</Property>
+        <Property name="ProcessDiscovery">ProcessDiscovery</Property>
+        <Property name="HibernatePrefix">${ProcessDiscovery}_Hibernate</Property>
+        <Property name="SpringFrameworkPrefix">${ProcessDiscovery}_SpringFramework</Property>
+        <Property name="JettyPrefix">${ProcessDiscovery}_Jetty</Property>
+        <Property name="CommonsPrefix">${ProcessDiscovery}_Commons</Property>
+        <Property name="ConfigurationPrefix">${ProcessDiscovery}_Configuration</Property>
+        <Property name="ArchiveSize">20MB</Property>
+        <Property name="IgnitePrefix">${ProcessDiscovery}_Ignite</Property>
+        <Property name="ActiveMQPrefix">${ProcessDiscovery}_ActiveMQ</Property>
+
+        <Property name="FormatPattern">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} [%t] %equals{%X{TENANT_UUID}}{}{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} - %-5level - %c - %method(%file:%line) - %msg%xEx%n
+        </Property>
+        <Property name="FormatPatternSingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} [%t] %equals{%X{TENANT_UUID}}{}{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} - %-5level - %c - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+        <Property name="FormatPatternNoLocation">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} [%t] %equals{%X{TENANT_UUID}}{}{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} - %-5level - %c - %msg%xEx%n</Property>
+
+        <Property name="FormatPatternForBISingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} [%t] %equals{%X{TENANT_UUID}}{}{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} - %-5level - %c - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+        <Property name="NumberOfFiles">20</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="ProcessDiscovery" fileName="${sys:logPath}/ProcessDiscovery.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/ProcessDiscovery-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Hibernate" fileName="${sys:logPath}/${HibernatePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${HibernatePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="SpringFramework" fileName="${sys:logPath}/${SpringFrameworkPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${SpringFrameworkPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Jetty" fileName="${sys:logPath}/${JettyPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${JettyPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Commons" fileName="${sys:logPath}/${CommonsPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${CommonsPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+		<RollingFile name="Ignite" fileName="${sys:logPath}/${IgnitePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${IgnitePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+            <DefaultRolloverStrategy max="${NumberOfFiles}"/>
+        </RollingFile>
+		<RollingFile name="ActiveMQ" fileName="${sys:logPath}/${ActiveMQPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${ActiveMQPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+            <DefaultRolloverStrategy max="${NumberOfFiles}"/>
+        </RollingFile>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="ProcessDiscovery"/>
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+
+        <logger name="com.automationanywhere" level="INFO"/>
+
+
+        <logger name="org.hibernate" level="INFO" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+		<logger name="com.automationanywhere.ignite" additivity="false">
+            <AppenderRef ref="Ignite"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.SQL" level="WARN" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.type.descriptor.sql" level="WARN" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+
+        <logger name="org.springframework" additivity="false">
+            <AppenderRef ref="SpringFramework"/>
+        </logger>
+        <logger name="org.apache.commons" level="WARN" additivity="false">
+            <AppenderRef ref="Commons"/>
+        </logger>
+        <logger name="org.eclipse.jetty" additivity="false">
+            <AppenderRef ref="Jetty"/>
+        </logger>
+        <logger name="spark" additivity="false">
+            <AppenderRef ref="Jetty"/>
+        </logger>
+		<logger name="org.apache.ignite"  level="WARN" additivity="false">
+            <AppenderRef ref="Ignite"/>
+        </logger>
+		<logger name="org.apache.activemq"  level="WARN" additivity="false">
+            <AppenderRef ref="ActiveMQ"/>
+        </logger>
+        <logger name="com.automationanywhere.grpc"  level="INFO" additivity="false">
+            <AppenderRef ref="ProcessDiscovery"/>
+        </logger>
+        <logger name="com.automationanywhere.processdiscovery.auth"  level="INFO" additivity="false">
+            <AppenderRef ref="SpringFramework"/>
+        </logger>
+    </Loggers>
+</Configuration>

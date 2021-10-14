@@ -1,0 +1,48 @@
+2021-Oct-06 Wed 22:08:49.793 INFO  - org.quartz.impl.StdSchedulerFactory - {} Using default implementation for ThreadExecutor
+2021-Oct-06 Wed 22:08:49.797 INFO  - org.quartz.simpl.SimpleThreadPool - {} Job execution threads will use class loader of thread: main
+2021-Oct-06 Wed 22:08:49.814 INFO  - org.quartz.core.SchedulerSignalerImpl - {} Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-Oct-06 Wed 22:08:49.814 INFO  - org.quartz.core.QuartzScheduler - {} Quartz Scheduler v.2.3.2 created.
+2021-Oct-06 Wed 22:08:50.085 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler meta-data: Quartz Scheduler (v2.3.2) 'SharedQuartzScheduler' with instanceId 'AAUS341JSTCR1633583329795'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2021-Oct-06 Wed 22:08:50.085 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler 'SharedQuartzScheduler' initialized from an externally provided properties instance.
+2021-Oct-06 Wed 22:08:50.086 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler version: 2.3.2
+2021-Oct-06 Wed 22:08:50.088 INFO  - org.quartz.core.QuartzScheduler - {} JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3385e222
+2021-Oct-06 Wed 22:09:23.782 INFO  - org.quartz.impl.StdSchedulerFactory - {} Using default implementation for ThreadExecutor
+2021-Oct-06 Wed 22:09:23.783 INFO  - org.quartz.simpl.SimpleThreadPool - {} Job execution threads will use class loader of thread: main
+2021-Oct-06 Wed 22:09:23.785 INFO  - org.quartz.core.SchedulerSignalerImpl - {} Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-Oct-06 Wed 22:09:23.786 INFO  - org.quartz.core.QuartzScheduler - {} Quartz Scheduler v.2.3.2 created.
+2021-Oct-06 Wed 22:09:23.798 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler meta-data: Quartz Scheduler (v2.3.2) 'QuartzScheduler' with instanceId 'AAUS341JSTCR1633583363783'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2021-Oct-06 Wed 22:09:23.798 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler 'QuartzScheduler' initialized from an externally provided properties instance.
+2021-Oct-06 Wed 22:09:23.799 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler version: 2.3.2
+2021-Oct-06 Wed 22:09:23.799 INFO  - org.quartz.core.QuartzScheduler - {} JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@3fa97e25
+2021-Oct-06 Wed 22:09:26.367 INFO  - org.quartz.impl.StdSchedulerFactory - {} Using default implementation for ThreadExecutor
+2021-Oct-06 Wed 22:09:26.367 INFO  - org.quartz.simpl.SimpleThreadPool - {} Job execution threads will use class loader of thread: main
+2021-Oct-06 Wed 22:09:26.369 INFO  - org.quartz.core.SchedulerSignalerImpl - {} Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-Oct-06 Wed 22:09:26.369 INFO  - org.quartz.core.QuartzScheduler - {} Quartz Scheduler v.2.3.2 created.
+2021-Oct-06 Wed 22:09:26.400 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DevicesQuartzScheduler' with instanceId 'AAUS341JSTCR1633583366367'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 2 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2021-Oct-06 Wed 22:09:26.401 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler 'DevicesQuartzScheduler' initialized from an externally provided properties instance.
+2021-Oct-06 Wed 22:09:26.401 INFO  - org.quartz.impl.StdSchedulerFactory - {} Quartz scheduler version: 2.3.2
+2021-Oct-06 Wed 22:09:26.401 INFO  - org.quartz.core.QuartzScheduler - {} JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@632424a7
+2021-Oct-06 Wed 22:09:50.071 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler DevicesQuartzScheduler_$_AAUS341JSTCR1633583366367 started.
+2021-Oct-06 Wed 22:09:50.114 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler QuartzScheduler_$_AAUS341JSTCR1633583363783 started.
+2021-Oct-06 Wed 22:09:50.249 INFO  - org.quartz.core.QuartzScheduler - {} Scheduler SharedQuartzScheduler_$_AAUS341JSTCR1633583329795 started.

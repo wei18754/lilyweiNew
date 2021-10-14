@@ -1,0 +1,2 @@
+2021-Oct-06 Wed 22:09:33.429 WARN  - com.automationanywhere.scheduler.service.impl.AutomationServiceImpl - {} - createSchedulerJobsV2(AutomationServiceImpl.java:1760) - Schedules migration will be processed by a different node or already completed
+2021-Oct-06 Wed 22:09:33.571 INFO  - com.automationanywhere.scheduler.consumer.ScheduleTenantMessageConsumer - {} - init(ScheduleTenantMessageConsumer.java:48) - Started process scheduler tenant deletion message consumer

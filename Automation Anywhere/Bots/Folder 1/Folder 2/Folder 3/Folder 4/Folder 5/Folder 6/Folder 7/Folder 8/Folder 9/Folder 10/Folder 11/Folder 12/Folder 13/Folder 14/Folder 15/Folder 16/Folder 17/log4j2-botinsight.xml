@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2020 Automation Anywhere. All rights reserved.
+  ~
+  ~  This software is the proprietary information of Automation Anywhere. You
+  ~  shall use it only in accordance with the terms of the license agreement you
+  ~  entered into with Automation Anywhere.
+  ~
+  -->
+
+<Configuration status="INFO" monitorInterval="30">
+    <properties>
+        <Property name="logPath">C:/ProgramData/AutomationAnywhere/Logs</Property>
+        <Property name="FormatPattern">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+        <Property name="ArchiveSize">20MB</Property>
+    </properties>
+    <Appenders>
+        <RollingFile name="WebCR_BI" fileName="${sys:logPath}/WebCR-BI.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/WebCR-BI-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="WebCR_BI"/>
+        </Root>
+        <logger name="com.automationanywhere" level="INFO"/>
+    </Loggers>
+</Configuration>

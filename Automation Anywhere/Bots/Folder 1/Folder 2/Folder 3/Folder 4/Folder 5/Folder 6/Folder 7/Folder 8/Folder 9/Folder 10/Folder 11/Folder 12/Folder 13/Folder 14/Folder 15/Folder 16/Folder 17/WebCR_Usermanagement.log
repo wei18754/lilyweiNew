@@ -1,0 +1,4 @@
+2021-Oct-06 Wed 22:08:35.086 INFO  - com.automationanywhere.um.service.impl.UserServiceImpl - {} - setSds(UserServiceImpl.java:104) - setSds: false
+2021-Oct-06 Wed 22:09:21.050 INFO  - com.automationanywhere.um.service.impl.UserCrudServiceImpl - {} - setSds(UserCrudServiceImpl.java:96) - setSds: false
+2021-Oct-06 Wed 22:09:44.834 INFO  - com.automationanywhere.auth.filter.SDSPostAuthRedirectFilter - {} - setSds(SDSPostAuthRedirectFilter.java:48) - sds = false
+2021-Oct-06 Wed 22:09:51.488 INFO  - com.automationanywhere.auth.util.JwtKeyService - {defaultTenant=true, sampled=true, spanId=d27a2e915cd94b28, tenantUuid=d8367b5e-9541-4eb9-a8a0-5fca1f782a1f, traceId=d27a2e915cd94b28} - putPublicKeysInCache(JwtKeyService.java:176) - CR Jwt token signing public key has been stored in the cache under key AutomationAnywhere

@@ -1,0 +1,10 @@
+2021-Sep-30 Thu 14:22:56.581 INFO  - org.eclipse.jetty.util.log - {} - Logging initialized @3541ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-Sep-30 Thu 14:23:36.127 INFO  - spark.staticfiles.StaticFilesConfiguration - {} - StaticResourceHandler configured with folder = /public
+2021-Sep-30 Thu 14:23:36.244 INFO  - org.eclipse.jetty.server.Server - {} - jetty-9.4.40.v20210413; built: 2021-04-13T20:42:42.668Z; git: b881a572662e1943a14ae12e7e1207989f218b74; jvm 11.0.11.0.101+2-LTS
+2021-Sep-30 Thu 14:23:36.333 INFO  - org.eclipse.jetty.server.handler.ContextHandler - {} - Started o.e.j.s.h.ContextHandler@203737fb{/assets,file:///C:/Program%20Files/Automation%20Anywhere/Automation360/crui/,AVAILABLE}
+2021-Sep-30 Thu 14:23:36.346 INFO  - org.eclipse.jetty.server.session - {} - DefaultSessionIdManager workerName=node0
+2021-Sep-30 Thu 14:23:36.347 INFO  - org.eclipse.jetty.server.session - {} - No SessionScavenger set, using defaults
+2021-Sep-30 Thu 14:23:36.350 INFO  - org.eclipse.jetty.server.session - {} - node0 Scavenging every 660000ms
+2021-Sep-30 Thu 14:23:36.399 INFO  - org.eclipse.jetty.server.handler.ContextHandler - {} - Started o.e.j.s.ServletContextHandler@34abfd7f{/,null,AVAILABLE}
+2021-Sep-30 Thu 14:23:36.427 INFO  - org.eclipse.jetty.server.AbstractConnector - {} - Started ServerConnector@3f2049b6{HTTP/1.1, (http/1.1)}{localhost:4571}
+2021-Sep-30 Thu 14:23:36.427 INFO  - org.eclipse.jetty.server.Server - {} - Started @43389ms

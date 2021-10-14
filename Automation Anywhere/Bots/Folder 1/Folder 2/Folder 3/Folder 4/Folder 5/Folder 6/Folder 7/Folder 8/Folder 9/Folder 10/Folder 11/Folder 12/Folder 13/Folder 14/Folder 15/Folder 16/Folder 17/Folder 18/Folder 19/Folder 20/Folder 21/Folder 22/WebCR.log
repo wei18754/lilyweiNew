@@ -1,0 +1,64 @@
+2021-Oct-08 Fri 00:10:39.603 INFO  - com.automationanywhere.common.util.FileUtils - {defaultTenant=true, sampled=true, spanId=854bf06d219bbc35, tenantUuid=d8367b5e-9541-4eb9-a8a0-5fca1f782a1f, traceId=854bf06d219bbc35} - writeContent(FileUtils.java:169) - Wrote input to file path C:\ProgramData\AutomationAnywhere\Server Files\public\updates-temp\c875affa-544c-4628-a2c6-4a6a6868c361. About to flush...
+2021-Oct-08 Fri 00:10:39.613 INFO  - com.automationanywhere.common.util.FileUtils - {defaultTenant=true, sampled=true, spanId=854bf06d219bbc35, tenantUuid=d8367b5e-9541-4eb9-a8a0-5fca1f782a1f, traceId=854bf06d219bbc35} - saveContent(FileUtils.java:110) - Input content written to repo file C:\ProgramData\AutomationAnywhere\Server Files\public\updates-temp\c875affa-544c-4628-a2c6-4a6a6868c361
+2021-Oct-08 Fri 00:46:19.531 INFO  - com.automationanywhere.crhttpd.AAServer - {} - handleGracefulShutdown(AAServer.java:293) - Invoked Custom shutdown hook, will start shutdown sequence after 43000 milliseconds
+2021-Oct-08 Fri 00:46:19.536 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:337) - Getting context
+2021-Oct-08 Fri 00:46:19.539 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:340) - Got context ServletContext@o.e.j.s.ServletContextHandler@4e4c3a38{/realtimeservice,null,AVAILABLE}
+2021-Oct-08 Fri 00:46:19.551 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:345) - Got broadcasterFactory org.atmosphere.cpr.DefaultBroadcasterFactory@6fc09c54
+2021-Oct-08 Fri 00:46:19.561 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:349) - Got broadcasters [
+	Name: /debuggerservice/{debugSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /recorderservice/{recorderSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /recorderservice/record/{recorderSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /nodeservice/{deviceUserName}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /v2/botinsight/mobile/activity
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /hybridtenant/{hybridTenantHandlerId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache, 
+	Name: /jobexecutionsubscriber/{userId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache]
+2021-Oct-08 Fri 00:46:19.570 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /debuggerservice/{debugSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.572 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.573 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /recorderservice/{recorderSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.574 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.575 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /recorderservice/record/{recorderSessionId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.577 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.583 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /nodeservice/{deviceUserName}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.583 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.584 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /v2/botinsight/mobile/activity
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.584 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.584 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /hybridtenant/{hybridTenantHandlerId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.584 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.584 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:351) - Broadcaster 
+	Name: /jobexecutionsubscriber/{userId}
+	AtmosphereResource: 0
+	BroadcasterCache org.atmosphere.cache.UUIDBroadcasterCache
+2021-Oct-08 Fri 00:46:19.585 INFO  - com.automationanywhere.crhttpd.AAServer - {} - closeWsConnections(AAServer.java:354) - atmosphereResources []
+2021-Oct-08 Fri 00:46:19.586 INFO  - com.automationanywhere.crhttpd.AAServer - {} - handleGracefulShutdown(AAServer.java:298) - Closed Websockets

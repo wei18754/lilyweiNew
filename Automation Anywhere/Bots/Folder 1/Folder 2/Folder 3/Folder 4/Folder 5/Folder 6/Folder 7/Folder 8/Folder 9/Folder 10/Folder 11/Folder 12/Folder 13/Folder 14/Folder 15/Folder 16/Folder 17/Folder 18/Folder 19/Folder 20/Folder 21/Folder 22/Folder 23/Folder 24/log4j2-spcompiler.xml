@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2018 Automation Anywhere. All rights reserved.
+  ~ <p>
+  ~  This software is the proprietary information of Automation Anywhere. You
+  ~  shall use it only in accordance with the terms of the license agreement you
+  ~  entered into with Automation Anywhere.
+  ~ </p>
+  -->
+
+<Configuration status="INFO" monitorInterval="30">
+    <Properties>
+        <Property name="logPath">C:/ProgramData/AutomationAnywhere/Logs</Property>
+        <Property name="ArchiveSize">20MB</Property>
+        <Property name="FormatPatternNoLocation">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %t - %msg%xEx%n</Property>
+        <Property name="NumberOfFiles">20</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="SPCompiler" fileName="${sys:logPath}/SPCompiler.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/SPCompiler-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+            <DefaultRolloverStrategy max="${NumberOfFiles}"/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="SPCompiler"/>
+        </Root>
+    </Loggers>
+</Configuration>

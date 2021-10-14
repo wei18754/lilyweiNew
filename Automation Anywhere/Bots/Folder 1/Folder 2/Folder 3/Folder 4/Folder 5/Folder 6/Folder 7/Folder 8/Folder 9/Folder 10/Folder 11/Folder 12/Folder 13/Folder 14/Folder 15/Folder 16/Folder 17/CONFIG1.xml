@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Configuration>
+        <ProcessName>Outlook</ProcessName>
+         <Subject>Automation Anywhere finished executing the TaskBot</Subject>
+        <SharedDrivePath>C:\Testdata123</SharedDrivePath>        
+</Configuration>
+ 
+ 
+ 
+
+ 

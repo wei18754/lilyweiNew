@@ -1,0 +1,7 @@
+2021-Oct-07 Thu 12:29:30.961 INFO  - org.hibernate.Version - {} - HHH000412: Hibernate ORM core version [WORKING]
+2021-Oct-07 Thu 12:29:31.531 INFO  - org.hibernate.annotations.common.Version - {} - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-Oct-07 Thu 12:29:32.410 INFO  - org.hibernate.dialect.Dialect - {} - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2021-Oct-07 Thu 12:29:33.313 WARN  - org.hibernate.mapping.RootClass - {} - HHH000038: Composite-id class does not override equals(): com.automationanywhere.hbc.model.TeamProcess
+2021-Oct-07 Thu 12:29:33.313 WARN  - org.hibernate.mapping.RootClass - {} - HHH000039: Composite-id class does not override hashCode(): com.automationanywhere.hbc.model.TeamProcess
+2021-Oct-07 Thu 12:29:33.516 INFO  - org.hibernate.validator.internal.util.Version - {} - HV000001: Hibernate Validator null
+2021-Oct-07 Thu 12:29:34.795 INFO  - org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - {} - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

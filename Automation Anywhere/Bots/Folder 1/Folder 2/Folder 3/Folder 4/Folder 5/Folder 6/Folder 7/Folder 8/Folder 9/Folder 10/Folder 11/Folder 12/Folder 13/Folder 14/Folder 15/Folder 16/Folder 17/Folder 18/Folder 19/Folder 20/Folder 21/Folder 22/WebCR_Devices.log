@@ -1,0 +1,897 @@
+2021-Oct-08 Fri 00:00:06.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:06.624 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:06.625 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 206 ms to process queue
+2021-Oct-08 Fri 00:00:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:16.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:16.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:00:26.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:00:36.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:00:46.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:00:56.564 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:00:56.568 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:00:56.569 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:01:06.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:06.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:06.448 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:01:16.442 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:16.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:16.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:01:26.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:01:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:01:46.433 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:46.434 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:46.434 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:01:56.436 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:01:56.438 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:01:56.438 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:02:06.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:02:16.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:16.430 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:16.430 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:02:26.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:26.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:26.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:02:36.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:02:46.433 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:46.436 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:46.436 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:02:56.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:02:56.503 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:02:56.503 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:03:06.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:06.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:03:16.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:16.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:16.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:03:26.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:26.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:26.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:03:36.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:36.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:36.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:03:46.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:03:56.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:03:56.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:03:56.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:04:06.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:06.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:06.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:04:16.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:16.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:16.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:04:26.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:26.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:26.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:04:26.845 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:04:26.853 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:04:26.861 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:04:26.864 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:04:26.874 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:04:26.876 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:04:26.880 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:04:36.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:04:46.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:46.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:46.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:04:56.437 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:04:56.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:04:56.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:05:06.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:06.448 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:06.449 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:05:16.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:16.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:16.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:05:26.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:26.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:26.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:05:36.440 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:36.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:36.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:05:46.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:46.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:46.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:05:56.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:05:56.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:05:56.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:06:06.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:06.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:06.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:06:16.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:16.428 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:16.428 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:06:26.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:26.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:26.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:06:36.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:06:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:06:56.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:06:56.538 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:06:56.538 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 2 ms to process queue
+2021-Oct-08 Fri 00:07:06.454 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:06.457 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:06.457 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:07:16.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:16.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:16.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:07:26.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:26.508 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:26.508 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:07:36.449 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:36.454 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:36.454 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:07:46.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:46.441 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:46.442 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:07:56.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:07:56.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:07:56.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:08:06.440 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:06.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:06.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:08:16.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:16.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:16.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:08:26.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:08:36.521 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:36.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:36.525 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:08:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:46.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:46.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:08:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:08:56.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:08:56.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:09:06.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:06.450 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:06.450 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 19 ms to process queue
+2021-Oct-08 Fri 00:09:16.418 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:16.419 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:16.419 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 2 ms to process queue
+2021-Oct-08 Fri 00:09:26.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:26.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:26.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:09:26.843 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:09:26.846 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:09:26.853 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:09:26.855 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:09:26.862 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:09:26.864 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:09:26.871 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:09:36.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:09:46.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:46.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:46.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:09:56.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:09:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:09:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:10:06.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:06.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:06.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:10:16.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:16.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:16.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:10:26.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:10:36.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:36.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:10:46.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:46.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:46.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:10:56.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:10:56.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:10:56.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:11:06.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:06.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:06.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:11:16.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:16.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:16.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:11:26.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:26.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:26.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:11:36.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:36.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:36.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:11:46.473 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:46.476 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:46.476 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:11:56.508 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:11:56.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:11:56.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:12:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:12:16.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:16.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:16.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:12:26.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:26.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:26.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:12:36.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:36.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:36.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:12:46.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:46.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:12:56.557 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:12:56.560 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:12:56.561 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:13:06.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:06.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:06.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:13:16.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:16.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:16.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:13:26.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:26.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:26.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:13:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:13:46.566 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:46.832 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:46.832 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 273 ms to process queue
+2021-Oct-08 Fri 00:13:56.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:13:56.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:13:56.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:14:06.462 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:06.470 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:06.470 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 16 ms to process queue
+2021-Oct-08 Fri 00:14:16.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:16.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:16.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 2 ms to process queue
+2021-Oct-08 Fri 00:14:26.520 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:26.522 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:26.522 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 23 ms to process queue
+2021-Oct-08 Fri 00:14:26.857 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:14:26.867 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:14:26.880 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:14:26.883 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:14:26.890 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:14:26.894 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:14:26.899 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:14:36.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:36.532 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:36.532 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:14:46.522 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:46.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:46.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:14:56.591 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:14:56.593 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:14:56.593 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:15:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:15:16.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:16.502 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:16.502 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:15:26.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:26.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:26.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:15:36.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:36.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:36.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:15:46.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:46.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:46.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:15:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:15:56.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:15:56.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:16:06.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:16:16.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:16.499 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:16.499 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:16:26.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:26.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:26.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:16:36.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:36.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:36.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:16:46.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:46.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:46.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:16:56.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:16:56.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:16:56.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:17:06.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:06.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:06.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:17:16.475 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:16.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:16.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:17:26.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:26.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:26.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:17:36.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:17:46.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:46.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:46.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:17:56.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:17:56.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:17:56.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:18:06.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:06.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:06.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:18:16.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:16.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:16.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:18:26.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:26.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:26.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:18:36.555 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:36.561 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:36.561 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:18:46.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:46.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:46.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:18:56.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:18:56.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:18:56.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:19:06.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:06.503 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:06.503 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:19:16.440 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:16.442 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:16.442 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:19:26.473 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:26.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:26.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:19:26.893 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:19:26.906 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:19:26.914 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:19:26.916 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:19:26.922 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:19:26.923 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:19:26.927 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:19:36.453 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:36.456 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:36.456 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:19:46.434 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:46.437 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:46.437 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:19:56.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:19:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:19:56.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:20:06.470 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:06.472 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:06.472 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:20:16.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:16.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:16.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:20:26.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:26.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:26.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:20:36.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:20:46.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:46.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:46.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:20:56.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:20:56.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:20:56.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:21:06.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:06.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:06.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:21:16.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:16.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:16.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:21:26.471 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:26.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:26.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:21:36.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:21:46.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:46.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:46.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:21:56.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:21:56.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:21:56.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:22:06.466 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:06.469 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:06.469 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:22:16.441 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:16.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:16.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:22:26.442 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:26.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:26.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:22:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:22:46.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:46.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:46.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 17 ms to process queue
+2021-Oct-08 Fri 00:22:56.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:22:56.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:22:56.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 16 ms to process queue
+2021-Oct-08 Fri 00:23:06.549 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:06.552 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:06.552 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 23 ms to process queue
+2021-Oct-08 Fri 00:23:16.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:16.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:16.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:23:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:26.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:26.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:23:36.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:36.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:23:46.536 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:46.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:46.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 20 ms to process queue
+2021-Oct-08 Fri 00:23:56.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:23:56.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:23:56.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:24:06.567 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:06.573 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:06.574 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 32 ms to process queue
+2021-Oct-08 Fri 00:24:16.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:24:26.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:26.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:26.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:24:26.843 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:24:26.847 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:24:26.852 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:24:26.854 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:24:26.859 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:24:26.861 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:24:26.864 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:24:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:24:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:46.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:46.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:24:56.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:24:56.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:24:56.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:25:06.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:06.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:06.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:25:16.421 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:16.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:16.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 2 ms to process queue
+2021-Oct-08 Fri 00:25:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:26.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:26.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:25:36.419 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:36.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:36.420 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 2 ms to process queue
+2021-Oct-08 Fri 00:25:46.429 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:46.430 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:46.430 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:25:56.534 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:25:56.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:25:56.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:26:06.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:06.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:06.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:26:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:16.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:16.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:26:26.441 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:26.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:26.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:26:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:26:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:26:56.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:26:56.448 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:26:56.448 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:27:06.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:06.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:06.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 6 ms to process queue
+2021-Oct-08 Fri 00:27:16.436 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:16.438 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:16.439 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:27:26.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:27:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:36.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:36.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:27:46.531 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:46.535 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:46.535 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 16 ms to process queue
+2021-Oct-08 Fri 00:27:56.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:27:56.540 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:27:56.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:28:06.499 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:06.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:06.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:28:16.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:16.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:16.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:28:26.526 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:26.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:26.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:28:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:36.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:28:46.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:46.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:46.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:28:56.502 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:28:56.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:28:56.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:29:06.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:06.517 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:06.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 22 ms to process queue
+2021-Oct-08 Fri 00:29:16.494 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:16.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:16.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:29:26.449 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:26.453 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:26.453 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:29:26.845 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:29:26.851 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:29:26.859 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:29:26.862 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:29:26.868 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:29:26.870 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:29:26.875 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:29:36.430 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:36.431 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:36.431 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:29:46.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:46.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:46.447 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:29:56.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:29:56.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:29:56.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:30:06.434 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:06.437 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:06.437 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:30:16.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:16.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:16.444 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:30:26.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:26.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:26.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:30:36.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:30:46.428 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:46.429 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:46.429 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:30:56.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:30:56.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:30:56.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:31:06.445 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:06.449 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:06.449 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:31:16.517 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:16.520 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:16.520 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:31:26.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:26.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:26.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:31:36.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:36.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:36.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:31:46.443 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:46.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:46.446 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:31:56.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:31:56.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:31:56.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:32:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:06.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:06.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:32:16.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:16.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:16.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:32:26.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:26.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:26.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:32:36.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:36.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:36.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:32:46.502 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:46.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:46.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:32:56.480 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:32:56.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:32:56.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:33:06.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:33:16.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:16.499 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:16.499 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:33:26.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:26.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:26.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:33:36.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:36.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:36.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:33:46.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:46.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:46.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:33:56.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:33:56.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:33:56.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:34:06.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:06.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:06.518 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:34:16.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:16.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:16.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:34:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:26.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:26.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:34:26.857 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:34:26.872 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:34:26.883 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:34:26.888 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:34:26.895 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:34:26.899 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:34:26.902 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:34:36.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:36.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:36.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:34:46.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:46.508 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:46.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:34:56.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:34:56.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:34:56.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:35:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:06.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:06.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:35:16.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:16.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:16.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:35:26.502 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:26.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:26.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:35:36.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:36.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:35:46.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:46.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:46.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:35:56.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:35:56.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:35:56.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:36:06.486 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:06.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:06.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:36:16.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:16.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:16.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:36:26.535 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:26.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:26.537 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:36:36.533 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:36.536 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:36.536 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:36:46.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:46.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:46.515 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:36:56.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:36:56.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:36:56.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:37:06.497 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:06.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:06.500 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:37:16.477 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:16.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:16.479 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:37:26.482 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:26.484 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:37:36.432 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:36.434 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:36.435 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:37:46.427 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:46.428 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:46.429 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:37:56.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:37:56.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:37:56.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:38:06.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:06.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:06.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:38:16.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:16.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:16.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:38:26.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:26.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:26.495 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:38:36.483 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:36.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:38:46.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:46.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:46.496 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:38:56.536 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:38:56.540 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:38:56.540 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:39:06.478 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:06.481 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:39:16.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:16.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:16.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:39:26.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:26.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:26.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:39:26.849 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:39:26.856 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:39:26.865 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:39:26.867 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:39:26.872 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:39:26.873 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:39:26.876 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:39:36.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:36.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:36.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:39:46.485 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:46.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:46.488 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:39:56.510 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:39:56.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:39:56.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:40:06.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:06.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:06.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:40:16.536 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:16.539 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:16.539 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:40:26.508 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:26.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:26.512 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:40:36.491 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:36.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:40:46.505 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:46.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:46.510 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 16 ms to process queue
+2021-Oct-08 Fri 00:40:56.538 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:40:56.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:40:56.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:41:06.560 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:06.563 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:06.563 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 17 ms to process queue
+2021-Oct-08 Fri 00:41:16.507 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:16.510 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:16.510 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:41:26.510 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:26.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:26.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:41:36.513 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:36.516 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:36.517 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:41:46.578 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:46.583 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:46.583 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 17 ms to process queue
+2021-Oct-08 Fri 00:41:56.548 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:41:56.560 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:41:56.560 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 25 ms to process queue
+2021-Oct-08 Fri 00:42:06.538 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:06.541 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:06.542 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 13 ms to process queue
+2021-Oct-08 Fri 00:42:16.520 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:16.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:16.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:42:26.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:26.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:26.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:42:36.524 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:36.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:36.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:42:46.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:46.532 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:46.532 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 15 ms to process queue
+2021-Oct-08 Fri 00:42:56.527 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:42:56.530 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:42:56.530 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 12 ms to process queue
+2021-Oct-08 Fri 00:43:06.526 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:06.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:06.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 14 ms to process queue
+2021-Oct-08 Fri 00:43:16.504 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:16.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:16.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:43:26.548 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:26.551 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:26.551 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 16 ms to process queue
+2021-Oct-08 Fri 00:43:36.487 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:36.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:36.489 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:43:46.525 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:46.528 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:46.529 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 18 ms to process queue
+2021-Oct-08 Fri 00:43:56.511 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:43:56.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:43:56.514 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:44:06.490 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:06.492 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:06.493 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue
+2021-Oct-08 Fri 00:44:16.438 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:16.441 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:16.441 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 9 ms to process queue
+2021-Oct-08 Fri 00:44:26.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:44:26.842 INFO  - com.automationanywhere.devices.quartz.job.TemporaryDevicesCleanupJob - {} - execute(TemporaryDevicesCleanupJob.java:33) - Temporary Devices - Auto Delete job is triggered
+2021-Oct-08 Fri 00:44:26.848 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:44:26.857 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:44:26.861 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:44:26.870 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:44:26.874 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:126) - Preparing to delete the temporary devices
+2021-Oct-08 Fri 00:44:26.883 INFO  - com.automationanywhere.devices.service.impl.DeviceAutoDeleteServiceImpl - {} - autoDeleteDevices(DeviceAutoDeleteServiceImpl.java:131) - No temporary devices are disconnected for 1439 minutes that can be deleted
+2021-Oct-08 Fri 00:44:36.471 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:36.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:36.474 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 8 ms to process queue
+2021-Oct-08 Fri 00:44:46.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:46.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:46.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:44:56.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:44:56.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:44:56.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:45:06.498 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:06.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:06.501 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 10 ms to process queue
+2021-Oct-08 Fri 00:45:16.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:16.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:45:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:26.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:26.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:45:36.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:36.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 4 ms to process queue
+2021-Oct-08 Fri 00:45:46.506 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:46.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:46.509 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 11 ms to process queue
+2021-Oct-08 Fri 00:45:56.424 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:45:56.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:45:56.425 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 5 ms to process queue
+2021-Oct-08 Fri 00:46:06.422 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:46:06.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:46:06.423 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 3 ms to process queue
+2021-Oct-08 Fri 00:46:16.426 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:43) - Processing queue started
+2021-Oct-08 Fri 00:46:16.428 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - processQueueAcrossTenants(ProcessDeploymentQueueJob.java:48) - Queue empty nothing to process
+2021-Oct-08 Fri 00:46:16.429 INFO  - com.automationanywhere.devices.quartz.job.ProcessDeploymentQueueJob - {} - execute(ProcessDeploymentQueueJob.java:33) - Took 7 ms to process queue

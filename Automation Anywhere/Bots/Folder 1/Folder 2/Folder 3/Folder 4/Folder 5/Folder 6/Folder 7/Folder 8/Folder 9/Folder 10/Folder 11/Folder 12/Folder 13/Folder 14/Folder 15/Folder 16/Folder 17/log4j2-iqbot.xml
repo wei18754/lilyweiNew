@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Automation Anywhere. All rights reserved.
+  ~ <p>
+  ~  This software is the proprietary information of Automation Anywhere. You
+  ~  shall use it only in accordance with the terms of the license agreement you
+  ~  entered into with Automation Anywhere.
+  ~ </p>
+  -->
+
+<Configuration status="INFO" monitorInterval="30">
+    <!--<ThresholdFilter />-->
+    <Properties>
+        <Property name="logPath">C:/ProgramData/AutomationAnywhere/Logs</Property>
+        <Property name="IQBot">IQBot</Property>
+        <Property name="HibernatePrefix">${IQBot}_Hibernate</Property>
+        <Property name="SpringFrameworkPrefix">${IQBot}_SpringFramework</Property>
+        <Property name="JettyPrefix">${IQBot}_Jetty</Property>
+        <Property name="CommonsPrefix">${IQBot}_Commons</Property>
+        <Property name="ConfigurationPrefix">${IQBot}_Configuration</Property>
+        <Property name="ArchiveSize">10MB</Property>
+
+        <Property name="FormatPattern">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc - %method(%file:%line) - %msg%xEx%n
+        </Property>
+
+        <Property name="FormatPatternSingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+
+        <Property name="FormatPatternNoLocation">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %msg%xEx%n</Property>
+        
+        <Property name="FormatPatternForBISingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+        <Property name="NumberOfFiles">20</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="IQBot" fileName="${sys:logPath}/IQBot.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/IQBot-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Hibernate" fileName="${sys:logPath}/${HibernatePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${HibernatePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="SpringFramework" fileName="${sys:logPath}/${SpringFrameworkPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${SpringFrameworkPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Jetty" fileName="${sys:logPath}/${JettyPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${JettyPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Commons" fileName="${sys:logPath}/${CommonsPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${CommonsPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Root level="${env:LOG_LEVEL:-INFO}">
+            <AppenderRef ref="IQBot"/>
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+
+        <logger name="com.automationanywhere" />
+
+
+        <logger name="org.hibernate"  additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.SQL"  additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.type.descriptor.sql"  additivity="false">
+            <AppenderRef ref="Hibernate"/>
+        </logger>
+
+        <logger name="org.springframework" additivity="false">
+            <AppenderRef ref="SpringFramework"/>
+        </logger>
+        <logger name="org.apache.commons" level="WARN" additivity="false">
+            <AppenderRef ref="Commons"/>
+        </logger>
+        <logger name="org.eclipse.jetty" additivity="false">
+            <AppenderRef ref="Jetty"/>
+        </logger>
+        <logger name="spark" additivity="false">
+            <AppenderRef ref="Jetty"/>
+        </logger>
+		
+    </Loggers>
+</Configuration>

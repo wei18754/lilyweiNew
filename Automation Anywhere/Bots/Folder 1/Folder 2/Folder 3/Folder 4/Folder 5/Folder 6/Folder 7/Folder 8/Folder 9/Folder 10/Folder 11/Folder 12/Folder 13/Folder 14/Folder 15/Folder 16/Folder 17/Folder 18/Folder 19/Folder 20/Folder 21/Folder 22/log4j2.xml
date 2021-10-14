@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Automation Anywhere. All rights reserved.
+  ~ <p>
+  ~  This software is the proprietary information of Automation Anywhere. You
+  ~  shall use it only in accordance with the terms of the license agreement you
+  ~  entered into with Automation Anywhere.
+  ~ </p>
+  -->
+
+<Configuration status="INFO" monitorInterval="30">
+    <!--<ThresholdFilter level="INFO"/>-->
+    <Properties>
+        <Property name="logPath">C:/ProgramData/AutomationAnywhere/Logs</Property>
+        <Property name="WebCR">WebCR</Property>
+        <Property name="WebCRUsermanagementPrefix">${WebCR}_Usermanagement</Property>
+        <Property name="WebCRAuthenticationPrefix">${WebCR}_Authentication</Property>
+        <Property name="WebCRSessionManagementPrefix">${WebCR}_SessionManagement</Property>
+        <Property name="WebCRCVPrefix">${WebCR}_CredentialVault</Property>
+        <Property name="WebCRSchedulerPrefix">${WebCR}_Scheduler</Property>
+        <Property name="WebCRWlmPrefix">${WebCR}_Wlm</Property>
+        <Property name="WebCROperationsRoomPrefix">${WebCR}_OperationsRoom</Property>
+        <Property name="WebCRDevicesPrefix">${WebCR}_Devices</Property>
+        <Property name="HibernatePrefix">${WebCR}_Hibernate</Property>
+        <Property name="SpringFrameworkPrefix">${WebCR}_SpringFramework</Property>
+        <Property name="JettyPrefix">${WebCR}_Jetty</Property>
+        <Property name="AtmospherePrefix">${WebCR}_Atmosphere</Property>
+        <Property name="QuartzPrefix">${WebCR}_Quartz</Property>
+        <Property name="CommonsPrefix">${WebCR}_Commons</Property>
+        <Property name="IgnitePrefix">${WebCR}_Ignite</Property>
+        <Property name="ConfigurationPrefix">${WebCR}_Configuration</Property>
+        <Property name="SettingsPrefix">${WebCR}_Settings</Property>
+        <Property name="LicensePrefix">${WebCR}_License</Property>
+        <Property name="MigrationPrefix">${WebCR}_Migration</Property>
+        <Property name="ServerRepositoryPrefix">${WebCR}_ServerRepository</Property>
+        <Property name="AuditPrefix">${WebCR}_Audit</Property>
+        <Property name="DeployPrefix">${WebCR}_Deploy</Property>
+        <Property name="RecorderPrefix">${WebCR}_Recorder</Property>
+        <Property name="PackagesPrefix">${WebCR}_Packages</Property>
+        <Property name="CompilerPrefix">${WebCR}_Compiler</Property>
+        <Property name="TenantPrefix">${WebCR}_Tenants</Property>
+        <Property name="MfaPrefix">${WebCR}_MFA</Property>
+        <Property name="BIPrefix">${WebCR}_BI</Property>
+        <Property name="BotContentPrefix">${WebCR}_BotContent</Property>
+        <Property name="GlobalValuePrefix">${WebCR}_GlobalValue</Property>
+        <Property name="CRRestExceptionPrefix">${WebCR}_RestException</Property>
+        <Property name="ArchiveSize">10MB</Property>
+
+        <Property name="FormatPattern">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc - %method(%file:%line) - %msg%xEx%n
+        </Property>
+
+        <Property name="FormatPatternSingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c %mdc - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+
+        <Property name="FormatPatternNoLocation">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc %msg%xEx%n</Property>
+
+        <Property name="FormatPatternForBISingleLine">%d{yyyy-MMM-dd EEE HH:mm:ss.SSS} %-5level - %c - %mdc - %method(%file:%line) - %replace{%msg}{[\r\n]+}{}%xEx%n
+        </Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="WebCR" fileName="${sys:logPath}/WebCR.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/WebCR-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Usermanagement" fileName="${sys:logPath}/${WebCRUsermanagementPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRUsermanagementPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Authentication" fileName="${sys:logPath}/${WebCRAuthenticationPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRAuthenticationPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_SessionManagement" fileName="${sys:logPath}/${WebCRSessionManagementPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRSessionManagementPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_CredentialVault" fileName="${sys:logPath}/${WebCRCVPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRCVPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="WebCR_Scheduler" fileName="${sys:logPath}/${WebCRSchedulerPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRSchedulerPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Wlm" fileName="${sys:logPath}/${WebCRWlmPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRWlmPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_OperationsRoom" fileName="${sys:logPath}/${WebCROperationsRoomPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCROperationsRoomPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Devices" fileName="${sys:logPath}/${WebCRDevicesPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${WebCRDevicesPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Hibernate" fileName="${sys:logPath}/${HibernatePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${HibernatePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="SpringFramework" fileName="${sys:logPath}/${SpringFrameworkPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${SpringFrameworkPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Jetty" fileName="${sys:logPath}/${JettyPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${JettyPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Atmosphere" fileName="${sys:logPath}/${AtmospherePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${AtmospherePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Quartz" fileName="${sys:logPath}/${QuartzPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${QuartzPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Commons" fileName="${sys:logPath}/${CommonsPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${CommonsPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="Ignite" fileName="${sys:logPath}/${IgnitePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${IgnitePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternNoLocation}"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Configuration" fileName="${sys:logPath}/${ConfigurationPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${ConfigurationPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Settings" fileName="${sys:logPath}/${SettingsPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${SettingsPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_License" fileName="${sys:logPath}/${LicensePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${LicensePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Migration" fileName="${sys:logPath}/${MigrationPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${MigrationPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_ServerRepository" fileName="${sys:logPath}/${ServerRepositoryPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${ServerRepositoryPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Audit" fileName="${sys:logPath}/${AuditPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${AuditPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="WebCR_Deploy" fileName="${sys:logPath}/${DeployPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${DeployPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Recorder" fileName="${sys:logPath}/${RecorderPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${RecorderPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Packages" fileName="${sys:logPath}/${PackagesPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${PackagesPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+          <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+          <Policies>
+            <OnStartupTriggeringPolicy/>
+            <TimeBasedTriggeringPolicy/>
+            <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+          </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_Compiler" fileName="${sys:logPath}/${CompilerPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${CompilerPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_BI" fileName="${sys:logPath}/${BIPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${BIPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternForBISingleLine}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_BotContent" fileName="${sys:logPath}/${BotContentPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${BotContentPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternForBISingleLine}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="WebCR_RestException" fileName="${sys:logPath}/${CRRestExceptionPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${CRRestExceptionPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPatternForBISingleLine}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="WebCR_Tenants" fileName="${sys:logPath}/${TenantPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${TenantPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_MFA" fileName="${sys:logPath}/${MfaPrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${MfaPrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="WebCR_GlobalValue" fileName="${sys:logPath}/${GlobalValuePrefix}.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/${GlobalValuePrefix}-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <RollingFile name="ESUtil" fileName="${sys:logPath}/ESUtil.log"
+                     filePattern="${sys:logPath}/$${date:yyyy-MMM}/ESUtil-%d{yyyy-MMM-dd}-%i.log.zip"
+                     immediateFlush="true" append="true">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="${ArchiveSize}"/>
+            </Policies>
+        </RollingFile>
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="${FormatPattern}" charset="UTF-8"/>
+        </Console>
+        <Console name="BISTDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="${FormatPatternSingleLine}" charset="UTF-8"/>
+        </Console>
+
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="WebCR"/>
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+
+        <logger name="com.automationanywhere" level="INFO"/>
+
+        <logger name="com.automationanywhere.common.util.logutil" level="DEBUG" additivity="false">
+            <AppenderRef ref="WebCR_RestException"/>
+            <AppenderRef ref="STDOUT"/>
+        </logger>
+
+        <!-- Next 2 are Usermanagement loggers. Try to keep levels in sync -->
+        <logger name="com.automationanywhere.um" additivity="false">
+            <AppenderRef ref="WebCR_Usermanagement"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.auth" additivity="false">
+            <AppenderRef ref="WebCR_Usermanagement"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.authn" additivity="false">
+            <AppenderRef ref="WebCR_Authentication"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.session" additivity="false">
+            <AppenderRef ref="WebCR_SessionManagement"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.credentialvault" additivity="false">
+            <AppenderRef ref="WebCR_CredentialVault"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.scheduler" additivity="false">
+            <AppenderRef ref="WebCR_Scheduler"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.wlm" additivity="false">
+            <AppenderRef ref="WebCR_Wlm"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.operationsroom" additivity="false">
+            <AppenderRef ref="WebCR_OperationsRoom"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.devices" additivity="false">
+            <AppenderRef ref="WebCR_Devices"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.configuration" additivity="false">
+            <AppenderRef ref="WebCR_Configuration"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.settings" additivity="false">
+            <AppenderRef ref="WebCR_Settings"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.tenants" additivity="false">
+            <AppenderRef ref="WebCR_Tenants"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.license" additivity="false">
+            <AppenderRef ref="WebCR_License"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.migration" additivity="false">
+            <AppenderRef ref="WebCR_Migration"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.serverrepository" additivity="false">
+            <AppenderRef ref="WebCR_ServerRepository"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.alm" additivity="false">
+            <AppenderRef ref="WebCR_ServerRepository"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.audit" additivity="false">
+            <AppenderRef ref="WebCR_Audit"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="org.hibernate" level="WARN" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="com.automationanywhere.deploy" additivity="false">
+            <AppenderRef ref="WebCR_Deploy"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.recorder" additivity="false">
+            <AppenderRef ref="WebCR_Recorder"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.ignite" additivity="false">
+            <AppenderRef ref="Ignite"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.packages" additivity="false">
+          <AppenderRef ref="WebCR_Packages"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.compiler" additivity="false">
+            <AppenderRef ref="WebCR_Compiler"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.botinsight" level="INFO" additivity="false">
+            <AppenderRef ref="WebCR_BI"/>
+            <AppenderRef ref="BISTDOUT"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.botcontent" level="DEBUG" additivity="false">
+            <AppenderRef ref="WebCR_BotContent"/>
+            <AppenderRef ref="BISTDOUT"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.SQL" level="WARN" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <!-- NOTE: turn off this logger by changing the level to upper for production -->
+        <logger name="org.hibernate.type.descriptor.sql" level="WARN" additivity="false">
+            <AppenderRef ref="Hibernate"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+
+        <logger name="org.springframework" additivity="false">
+            <AppenderRef ref="SpringFramework"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="org.apache.commons" level="WARN" additivity="false">
+            <AppenderRef ref="Commons"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="org.apache.ignite" additivity="false">
+            <AppenderRef ref="Ignite"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="org.eclipse.jetty" additivity="false">
+            <AppenderRef ref="Jetty"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="spark" additivity="false">
+            <AppenderRef ref="Jetty"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="org.atmosphere" additivity="false">
+            <AppenderRef ref="Atmosphere"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="org.quartz" additivity="false">
+            <AppenderRef ref="Quartz"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.mfa" additivity="false">
+            <AppenderRef ref="WebCR_MFA"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+        <logger name="com.automationanywhere.elasticsearch.util" additivity="false">
+            <AppenderRef ref="ESUtil"/>
+            <AppenderRef ref="STDOUT" level="ERROR"/>
+        </logger>
+    </Loggers>
+</Configuration>

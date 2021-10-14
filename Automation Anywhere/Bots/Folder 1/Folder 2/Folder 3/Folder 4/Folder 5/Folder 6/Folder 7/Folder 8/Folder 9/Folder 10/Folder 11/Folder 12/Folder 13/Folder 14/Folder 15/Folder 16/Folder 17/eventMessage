@@ -1,0 +1,87 @@
+syntax = "proto3";
+
+package serverrepository;
+
+option java_package = "com.automationanywhere.serverrepository.api.dto";
+option java_multiple_files = true;
+
+message CheckInEvent {
+  int64 private_file_id = 1;
+  int64 public_file_id = 2;
+  string type = 3;
+}
+
+message CheckInEventBulk {
+    repeated CheckInEvent check_in_event = 1;
+}
+
+message CheckOutEvent {
+  int64 private_file_id = 1;
+  int64 public_file_id = 2;
+}
+
+message RepositoryEvents {
+    oneof msgs {
+        CheckInEvent checkin = 1;
+        CheckOutEvent checkout = 2;
+        FileDeleteEvent delete = 3;
+        CheckInEventBulk check_in_bulk = 4;
+     }
+}
+
+message FileCheckInRequest {
+    repeated int64 ids = 1;
+    string description = 2;
+    string request_id = 3;      // Identifier to track this request
+}
+
+message FileCheckOutRequest {
+    repeated int64 ids = 1;
+    string request_id = 2;      // Identifier to track this request
+}
+
+message RevertCheckOutRequest {
+    int64 id = 1;
+    //Can add version tag here too.
+}
+
+
+message FileContentUpdatedEvent {
+    int64 fileId = 1;
+}
+
+message RepositoryInternalEvents {
+    oneof msgs {
+        FileCheckInRequest checkin = 1;
+        FileCheckOutRequest checkout = 2;
+        FileContentUpdatedEvent file_content_updated = 3;
+        GitRestoreEvent git_restore_event = 4;
+  }
+}
+message FileDeleteEvent {
+  int64 file_id = 1;
+}
+message GitCommitRequest {
+    repeated int64 ids = 1;
+    string commit_message = 2;
+}
+
+message GitRestoreEvent {
+    string request_id=1 ; //Identifier to track this request
+    bool is_retry_restore = 2;
+    bool is_reset=3;
+}
+
+//order of values is important as it determines whether previous operations are already done or not
+enum RepoProgressStep {
+    Git_Restore_Validation = 0;
+    Git_Restore_Clone = 1;
+    Git_Restore_Scan_And_Estimate = 2;
+    Git_Restore_Commit_History = 3;
+    Git_Restore_Create_Folders = 4;
+    Git_Restore_Create_Bots = 5;
+    Git_Restore_Create_Files = 6;
+    Git_Restore_Create_Dependency = 7;
+    Git_Restore_Reset = 8;
+    Git_Restore_Create_Git_Mapping = 9;
+}
